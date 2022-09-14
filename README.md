@@ -1,5 +1,7 @@
 # Laravel Echo Server
 
+This is active maintained fork of original package https://github.com/tlaverdure/laravel-echo-server
+
 NodeJs server for Laravel Echo broadcasting with Socket.io.
 
 ## System Requirements
